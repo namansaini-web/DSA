@@ -1,0 +1,17 @@
+  // TIME COMPLEXITY:
+A method which help to find us,
+whether the code is time efficient or not.
+And, how much time it iterates a loop.
+
+Denoted by--> O()--> Big Oh, [TC = O()]
+ O(k.n) = O(n) --> We can ignore constants
+ O(n+k) = O(n)
+ O(n-k) = O(n)
+ O(k) = O(k*1) = O(k) --> Constant time complexity
+ O(n*n - k*n + k) = O(n*n)
+
+ O(n) != O(n*n)
+
+  // COMPARING TC:
+[ O(log(n)) ] > [ O(n^(1/2)) ] > [O(n) ] > [ O(n*log(n)) ] > [ O(n*n) ] > [ O(n*n*n) ] > [ O(2^n) ]
+

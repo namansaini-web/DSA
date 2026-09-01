@@ -1,0 +1,23 @@
+Basics of c++ language:
+
+1. Founded by Bjarne Stroustrope.
+2. Extension of C language. 
+3. Used to build fast programs.
+4. More control over system resources and memory manegment.
+
+5. main() function:
+    The entry point of our function. 
+
+6. iostream:
+    It is a input output library (Header File),
+    Improves the functionality of our program.
+
+7. return 0 :
+    It is the calling/closing point of our function ,
+     which sends 0 value to the function. 
+
+8. "endl" and "\n" are used to print output in next line   
+
+9. (i) Each new C++ insturction has to be written ona separate line -> false
+   (ii) Usually all C++ statement are entered in small case letters  -> True 
+   (iii) Blank spaces may be inserted between two words in a C++ statement -> True 

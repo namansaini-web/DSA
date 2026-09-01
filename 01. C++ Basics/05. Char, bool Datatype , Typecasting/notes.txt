@@ -1,0 +1,30 @@
+Characters can be:
+
+a,b,c,d.....
+A,B,C,D.....
+!,@,#,$,^,&,*,(),+,=,.....
+0,1,2,3,4,.....
+
+ASCII value:
+'A' = 65      'a' = 97     '0' = 48
+'B' = 66      'b' = 98     '1' = 49
+'C' = 67      'c' = 99     '2' = 50
+   .             .            .
+   .             .            .
+   .             .            .
+'Y' = 89      'y' = 121    '8' = 56
+'Z' = 90      'z' = 122    '9' = 57
+
+Typecasting:
+
+Changing the datatype of a variable 
+For example-->  int > Char
+                char > int
+
+  Implicit--> automatic 
+  Explicit--> mannual    
+
+Relational Operators :
+
+< , > , = , ==, <= , >= , !=
+    

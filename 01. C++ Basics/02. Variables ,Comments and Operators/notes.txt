@@ -1,0 +1,19 @@
+Variables And Comments:
+
+1. Variables
+    Container used to store data 
+     x = 10
+    Can only be start with a 'character' or '_' and no other special name is allowed.
+    Can have numbers but not iin start.
+
+2. Comments 
+    commenting in C++ is done by " // "
+
+3. Datatype 
+    configuration of diff data as 
+      int -- integer
+      float -- number with decimal (10.99)
+      double -- double float (3.14159)   
+      char -- character 
+      bool -- boolean ( True or False ) 
+      void -- valueless 

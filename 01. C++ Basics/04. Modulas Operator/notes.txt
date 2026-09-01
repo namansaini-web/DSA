@@ -1,0 +1,3 @@
+Modulas Operator:
+   Gives remainder.
+   If denominator is greater then numarator then output will be numarator.

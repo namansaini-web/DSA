@@ -1,0 +1,27 @@
+1. Syntax for 'for' loop :
+
+    for( initialization ; condition ; increment ){
+        cout<<" work " ;
+    }
+
+2. Steps in this process :
+
+    (i) Step 1 -->
+      initialization , means defining a variable for the loop
+      which is (i = 1) in this case .
+
+    (ii)Step 2 -->
+      then  -> check of condition 
+            -> working on the work assignied 
+            ->and at last increment happens 
+
+            then , loop starts again.
+            
+
+3. Syntax for 'while' loop:
+
+    initialization 
+    while ( conditon ){
+        statement ;
+        incriment/decriment ;
+    }          

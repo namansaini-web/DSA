@@ -1,0 +1,19 @@
+# Arrays:
+    Box of boxes.
+    Lists for c++ 
+    An array can be only of integers or float or string , they cannot intermix.
+
+# SYNTAX:
+    1. [ int array_name = {values}; ]
+    2. [ int array_name[n] ; ]
+
+# RULES FOR ARRAY:
+1. Indexing is same as lists in python means,
+        start from zero.
+
+2. length/size of array --> number of elements in a array.
+
+3. sizeof operator --> gives total number of bits, elements of array occupy.
+                            1 element = 4 bits 
+
+4. There is no negative indexing for an array.

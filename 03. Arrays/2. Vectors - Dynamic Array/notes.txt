@@ -1,0 +1,8 @@
+VECTORS IN C++ :
+Also known as Dynamic Array.
+   --> Array which grows.
+   --> Syntax:
+       vector<datatype> array_name(size, default_value) ;
+
+# Static Array --> Pass by reference (means value changes if pass through another function)
+# Vectors --> Pass by value (means value doesn't change if pass through another function)

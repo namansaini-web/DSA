@@ -1,0 +1,9 @@
+Increment Operator:
+ 
+Post-->   x++  :  It is same as x = x + 1 , Adds later 
+Pre -->   ++x  :  It is same as x = x + 1 , Adds first
+
+Decrement Operator:
+
+Post-->   x--  :  It is same as x = x - 1 , Substracts later 
+pre -->   --x  :  It is same as x = x - 1 , Subtracts first

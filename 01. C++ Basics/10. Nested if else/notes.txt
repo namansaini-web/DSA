@@ -1,0 +1,35 @@
+1. Nested if else :
+
+   syntax-->
+   if (condition){
+         if(condition) statement ;
+         else  statement ;
+   } 
+   else{ if(condition) statment ;
+         else  statment ; 
+   }
+
+
+2. Variables , value assign inside if :
+    
+    syntax-->
+    if(variable){
+      statement
+    }
+
+//
+  0      --> False
+  not(0) --> True    
+                  //
+
+3. Concept :
+
+    int x1 ;
+    if(false) cout<<"" ;
+    else cout<<"else statement runs!"<<endl ;
+
+    int x2 ;
+    if(true) cout<<"if statement runs!"<<endl ;
+    else cout<<"" ;
+
+                             

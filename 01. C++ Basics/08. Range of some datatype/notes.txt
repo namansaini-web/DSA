@@ -1,0 +1,37 @@
+1.Range of "int" :
+int can store a number upto '2147483647' from '-2147483648' .
+   Means [ -2^(31) <= x <= 2^(31) ]
+
+2. Some other datatype :
+    (i) long long : stores integers only!
+    From -9223372036854775808 to 9223372036854775807
+      Means [ (-2^(63)) <= x <= (2^(63)-1) ]
+
+      Syntax -->
+      long long x = LLONG_MAX ;
+      long long x = LLONG_MIN ;
+
+    (ii) short : stores integers only!
+    From -32768 to 32767 
+     Means [ (-2^(15)) <= x <= (2^(15)-1) ]
+
+      Syntax -->
+      short x = INT16_MIN ;
+      short x = INT16_MAX ;
+
+    (iii)double : stores flaot values !
+     float ka bada bhai 
+
+      Syntax -->
+      double x = (value) ;
+
+3. Computing :
+  int       -->   4 bytes = 32 bits
+  long long -->   8 bytes = 64 bits 
+  short     -->   2 bytes = 16 bits 
+  flaot     -->   4 bytes = 32 bits 
+  double    -->   8 bytes = 64 bits 
+  bool      -->   1 bytes =  8 bits 
+  char      -->   1 bytes =  8 bits 
+
+  

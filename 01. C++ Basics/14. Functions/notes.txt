@@ -1,0 +1,51 @@
+  # Basics :
+
+1. main() runs automatically 
+  int main() --> entry point of any c++ code. 
+
+2. Self defined functions need to call for an output.
+
+3. Sabse phele hamesha main() function chalta haa.
+
+
+  # Argument :
+These are values which we sends function to function.
+
+
+  # Return Keyword :
+
+1. Breaks the loop , khatam tata good bye!!
+
+2. And gives a value to the function,
+  which we further use with cout or something else .  
+
+3. we have to use return in every self made function except
+  void and main.
+  Because in main function return is automatically there,
+  and no need in void defined function.
+
+4. If we return anything else integer in int function,
+  it will give an error.   
+
+
+  # Inbuilt functions :
+
+1. max() --> gives out the max number out of the two.
+2. min() --> gives out the min number out of the two.
+  // more then two arguments will give an error.  
+
+3. pow() --> takes the second argument a power and 
+            first as base.  
+4. sqrt() --> gives the square root. 
+5. cbrt() --> gives the cube root.
+6. abs() --> gives the absolute value.          
+
+
+  # Functional Overloading:
+Diff function with same name.
+  CASE I:
+  When number of parameters are different.
+  CASE II:
+  When Datatype of parameter is different.
+  CASE III:
+  When datatype of parameters are swapied.
